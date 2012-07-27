@@ -1,0 +1,205 @@
+<!doctype html>
+<html class="no-js no-touch">
+
+<head>
+	
+	<meta charset="utf-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> <!-- Use this server side: h5bp.com/i/378 -->
+	
+	<title>HTML5 dummy template</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- rgne.ws/MOkRAX -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	
+	<!-- rgne.ws/N9c4uV & rgne.ws/MuCQZI -->
+	<script>if (('ontouchstart' in window) || (window.DocumentTouch && (document instanceof DocumentTouch))) document.documentElement.className = document.documentElement.className.replace(/\bno-touch\b/,'touch');</script>
+	
+	<!-- rgne.ws/MuCQZI -->
+	<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');</script>
+	
+	<style>
+		<!--
+			
+			/*
+			** 
+			** CSS/HTML tested via:
+			** 
+			** MAC Snow Leopard:
+			** Firefox 13.0.x, Safari 5.1.x, Opera 12.00, Chrome 20.0.x
+			** 
+			** PC Vista:
+			** Firefox 3.6.x, Firefox 13.0.x, Chrome 20.0.x, Safari 5.1.x, Opera 12.00
+			** IE 9.0.x, IE 8.0.x, IE 7.0.x
+			** 
+			** PC XP:
+			** IE 6.0.x
+			** 
+			** iPhone 4:
+			** Safari 4.3 (simulated), Safari 5.1.1, Chrome 19.0.x, Opera Mini 7.0.x (has refresh issues)
+			** iPhone:
+			** Safari 4.3 (simulated)
+			** iPad:
+			** Safari 4.3 (simulated), Safari 5.1.1
+			** 
+			** Galaxy Tab 10.1:
+			** Browser 3.2
+			** 
+			** Last updated: 2012/07/14
+			** 
+			*/
+			
+			/*
+			**--------------------------------------------------------------------------
+			**
+			** normalize.css (slightly modified)
+			** rgne.ws/LRBoG6
+			**
+			**--------------------------------------------------------------------------
+			*/
+			
+			article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,button,input,select,textarea{font-family:sans-serif;color:#222}body{margin:0;font-size:1em;line-height:1.4}::-moz-selection{background:#98adca;text-shadow:none}::selection{background:#b3d4fc;text-shadow:none}a:focus{outline:thin dotted}a:hover,a:active{outline:0}h1{font-size:2em;margin:.67em 0}h2{font-size:1.5em;margin:.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:.83em;margin:1.67em 0}h6{font-size:.75em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}ins{background:#ff9;color:#000;text-decoration:none}p,pre{margin:1em 0}pre,code,kbd,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:"";content:none}small{font-size:85%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{border:0;vertical-align:middle;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button;*overflow:visible}button[disabled],input[disabled]{cursor:default}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top;resize:vertical}table{border-collapse:collapse;border-spacing:0}td{vertical-align:top}
+			
+			/*
+			**--------------------------------------------------------------------------
+			**
+			** Project styles:
+			**
+			**--------------------------------------------------------------------------
+			*/
+			
+			a {
+				color: #c00;
+				text-decoration: none;
+			}
+			a:visited { color: #c00; }
+			a:visited:hover,
+			a:focus,
+			a:focus:hover,
+			a:hover,
+			a:active {
+				color: #f00;
+				text-decoration: underline;
+			}
+			
+			/**
+			 * Doc block style comments.
+			 *
+			 * @link http://google.com
+			 */
+			
+			hr { display: none !important; }
+			.clear:before, .clear:after { content: ""; display: table; }
+			.clear:after { clear: both; }
+			.clear { *zoom: 1; }
+			
+			/*
+			**----------------------------------
+			** Subheading and dividers:
+			**----------------------------------
+			*/
+			
+			/*--------------------------------------------------------------------*/
+			
+			/*----------------------------------*/
+			
+			/*-----------------( HEADING DESCRIPTION )-----------------*/
+			
+			/*-----------------*/
+			
+			/*
+			**--------------------------------------------------------------------------
+			**
+			** Media queries:
+			**
+			**--------------------------------------------------------------------------
+			*/
+			
+			@media only screen and (min-width: 480px) {}
+			@media only screen and (min-width: 600px) {}
+			@media only screen and (min-width: 768px) {}
+			@media only screen and (min-width: 992px) {}
+			@media only screen and (min-width: 1382px) {}
+			
+			/*
+			**----------------------------------
+			** Retina display:
+			**----------------------------------
+			*/
+			
+			/**
+			 * @see: rgne.ws/NQeFYz
+			 */
+			
+			@media
+			only screen and (-webkit-min-device-pixel-ratio: 1.5),
+			only screen and (-o-min-device-pixel-ratio: 3/2),
+			only screen and (min--moz-device-pixel-ratio: 1.5),
+			only screen and (min-device-pixel-ratio: 1.5) {}
+			
+			/*
+			**----------------------------------
+			** Retina display at >= 990 width:
+			**----------------------------------
+			*/
+			
+			/**
+			 * @see: rgne.ws/M1CLgG
+			 */
+			
+			@media
+			only screen and (min-width: 990px) and (-webkit-min-device-pixel-ratio: 1.5),
+			only screen and (min-width: 990px) and (-o-min-device-pixel-ratio: 3/2),
+			only screen and (min-width: 990px) and (min--moz-device-pixel-ratio: 1.5),
+			only screen and (min-width: 990px) and (min-device-pixel-ratio: 1.5) {}
+			
+		-->
+	</style>
+	
+	<script>
+		<!--
+			//if (document.getElementById) { document.write('<link rel="stylesheet" href="assets/css/js.css?v=20120726">'); }
+		//-->
+	</script>
+	
+	 <!-- rgne.ws/PV8KUu -->
+	<!--[if (lt IE 9) & (!IEMobile)]>
+		<script src="assets/js/respond-1.1.0.min.js"></script>
+	<![endif]-->
+	
+	<!-- rgne.ws/Orh5cv -->
+	<!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.js"></script>
+	<![endif]-->
+	
+</head>
+<body>
+	
+	
+	
+	
+	<p>Content here...</p>
+	
+	
+	
+	
+	<script src="assets/js/ios-orientationchange-fix.js"></script> <!-- rgne.ws/PYrfbZ -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<!--<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.19/jquery-ui.min.js"></script>-->
+	
+	<script type="text/javascript">
+		<!--
+			
+			$(document).ready(function() {});
+			
+			$(window).load(function() {});
+			
+			$(window).resize(function() {});
+			
+		//-->
+	</script>
+	
+</body>
+</html>
