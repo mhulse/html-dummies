@@ -1,5 +1,8 @@
 <!doctype html>
-<html class="no-js no-touch">
+<!--[if IE 6]>         <html class="no-js ie6 funk" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js ie7 funk" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js ie8 funk" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js no-touch">           <!--<![endif]-->
 
 <head>
 	
@@ -28,21 +31,32 @@
 			** CSS/HTML tested via:
 			** 
 			** MAC Snow Leopard:
-			** Firefox 13.0.x, Safari 5.1.x, Opera 12.00, Chrome 20.0.x
+			** Firefox 16.0.1, Safari 6.0.1 (8536.26.14), Opera 12.02 (1578), Chrome 22.0.1229.94
 			** 
 			** PC Vista:
-			** Firefox 3.6.x, Firefox 13.0.x, Chrome 20.0.x, Safari 5.1.x, Opera 12.00
-			** IE 9.0.x, IE 8.0.x, IE 7.0.x
+			** Firefox 16.0.1, Chrome 22.0.1229.94 m, Safari 5.1.7 (7534.57.2), Opera 12.02 (1578)
+			** IE 9.0.8112.16421, IE 8.0.6001.18702, IE 7.0.6002.18005
 			** 
 			** PC XP:
-			** IE 6.0.x
+			** IE 6.0.2900.5512.xpsp_sp3_gdr.120504-1619
 			** 
-			** iPhone 4:
-			** Safari 4.3 (simulated), Safari 5.1.1, Chrome 19.0.x, Opera Mini 7.0.x (has refresh issues)
-			** iPhone:
-			** Safari 4.3 (simulated)
-			** iPad:
-			** Safari 4.3 (simulated), Safari 5.1.1
+			** iPhone (Retina 4-inch):
+			** Safari (simulated)
+			** 
+			** iPhone (Retina 3.5-inch), iOS 6.0:
+			** Safari (simulated), Safari, Chrome 21.0.1180.82, Opera Mini 7.0.5.45389
+			** 
+			** iPhone, iOS 6.0:
+			** Safari (simulated)
+			** 
+			** iPad (Retina), iOS 6.0:
+			** Safari
+			** 
+			** iPad, iOS 6.0:
+			** Safari (simulated)
+			** 
+			** iPad, iOS 5.1.1:
+			** Safari
 			** 
 			** Galaxy Tab 10.1:
 			** Browser 3.2
@@ -74,6 +88,7 @@
 			 * Doc block style comments.
 			 *
 			 * @see rgne.ws/Q0KviK
+			 * @see rgne.ws/OK5Xd9
 			 * @see rgne.ws/MHY0EN
 			 */
 			
@@ -159,10 +174,12 @@
 			 */
 			
 			@media
-			only screen and (-webkit-min-device-pixel-ratio: 1.5),
-			only screen and (-o-min-device-pixel-ratio: 3/2),
 			only screen and (min--moz-device-pixel-ratio: 1.5),
-			only screen and (min-device-pixel-ratio: 1.5) {}
+			only screen and (-moz-min-device-pixel-ratio: 1.5),
+			only screen and (-o-min-device-pixel-ratio: 3/2),
+			only screen and (-webkit-min-device-pixel-ratio: 1.5),
+			only screen and (min-device-pixel-ratio: 1.5),
+			only screen and (min-resolution: 1.5dppx) {}
 			
 			/*
 			**----------------------------------
@@ -175,10 +192,12 @@
 			 */
 			
 			@media
-			only screen and (min-width: 990px) and (-webkit-min-device-pixel-ratio: 1.5),
-			only screen and (min-width: 990px) and (-o-min-device-pixel-ratio: 3/2),
 			only screen and (min-width: 990px) and (min--moz-device-pixel-ratio: 1.5),
-			only screen and (min-width: 990px) and (min-device-pixel-ratio: 1.5) {}
+			only screen and (min-width: 990px) and (-moz-min-device-pixel-ratio: 1.5),
+			only screen and (min-width: 990px) and (-o-min-device-pixel-ratio: 3/2),
+			only screen and (min-width: 990px) and (-webkit-min-device-pixel-ratio: 1.5),
+			only screen and (min-width: 990px) and (min-device-pixel-ratio: 1.5),
+			only screen and (min-width: 990px) and (min-resolution: 1.5dppx) {}
 			
 		-->
 	</style>
@@ -211,8 +230,8 @@
 	
 	
 	<script src="assets/js/ios-orientationchange-fix.js"></script> <!-- rgne.ws/PYrfbZ -->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<!--<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.19/jquery-ui.min.js"></script>-->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<!--<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>-->
 	
 	<script type="text/javascript">
 		<!--
