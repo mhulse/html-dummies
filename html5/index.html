@@ -1,8 +1,8 @@
 <!doctype html>
-<!--[if IE 6]>         <html class="no-js ie6 funk" lang="en"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js ie7 funk" lang="en"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js ie8 funk" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js no-touch">           <!--<![endif]-->
+<!--[if IE 6]>         <html class="no-js ie6 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js ie7 lt-ie9 lt-ie8">        <![endif]-->
+<!--[if IE 8]>         <html class="no-js ie8 lt-ie9">               <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js no-touch">                 <!--<![endif]-->
 
 <head>
 	
@@ -17,64 +17,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- rgne.ws/MOkRAX -->
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	
-	<!-- rgne.ws/N9c4uV & rgne.ws/MuCQZI -->
-	<script>if (('ontouchstart' in window) || (window.DocumentTouch && (document instanceof DocumentTouch))) document.documentElement.className = document.documentElement.className.replace(/\bno-touch\b/,'touch');</script>
+	<!-- rgne.ws/WnP50T -->
+	<script>if(('ontouchstart' in window)||(window.DocumentTouch&&(document instanceof DocumentTouch))){document.documentElement.className=document.documentElement.className.replace(/\bno-touch\b/,'touch')}</script>
 	
-	<!-- rgne.ws/MuCQZI -->
-	<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');</script>
+	<!-- rgne.ws/WnP50T -->
+	<script>document.documentElement.className=document.documentElement.className.replace(/\bno-js\b/,'js')</script>
 	
 	<style>
 		<!--
 			
-			/*
-			** 
-			** CSS/HTML tested via:
-			** 
-			** MAC Snow Leopard:
-			** Firefox 16.0.1, Safari 6.0.1 (8536.26.14), Opera 12.02 (1578), Chrome 22.0.1229.94
-			** 
-			** PC Vista:
-			** Firefox 16.0.1, Chrome 22.0.1229.94 m, Safari 5.1.7 (7534.57.2), Opera 12.02 (1578)
-			** IE 9.0.8112.16421, IE 8.0.6001.18702, IE 7.0.6002.18005
-			** 
-			** PC XP:
-			** IE 6.0.2900.5512.xpsp_sp3_gdr.120504-1619
-			** 
-			** iPhone (Retina 4-inch):
-			** Safari (simulated)
-			** 
-			** iPhone (Retina 3.5-inch), iOS 6.0:
-			** Safari (simulated), Safari, Chrome 21.0.1180.82, Opera Mini 7.0.5.45389
-			** 
-			** iPhone, iOS 6.0:
-			** Safari (simulated)
-			** 
-			** iPad (Retina), iOS 6.0:
-			** Safari
-			** 
-			** iPad, iOS 6.0:
-			** Safari (simulated)
-			** 
-			** iPad, iOS 5.1.1:
-			** Safari
-			** 
-			** Galaxy Tab 10.1:
-			** Browser 3.2
-			** 
-			** Last updated: 2012/07/14
-			** 
-			*/
-			
-			/*
-			**--------------------------------------------------------------------------
-			**
-			** normalize.css (slightly modified)
-			** rgne.ws/LRBoG6
-			**
-			**--------------------------------------------------------------------------
-			*/
-			
-			article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,button,input,select,textarea{font-family:sans-serif;color:#222}body{margin:0;font-size:1em;line-height:1.4}::-moz-selection{background:#98adca;text-shadow:none}::selection{background:#b3d4fc;text-shadow:none}a:focus{outline:thin dotted}a:hover,a:active{outline:0}h1{font-size:2em;margin:.67em 0}h2{font-size:1.5em;margin:.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:.83em;margin:1.67em 0}h6{font-size:.75em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}ins{background:#ff9;color:#000;text-decoration:none}p,pre{margin:1em 0}pre,code,kbd,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:"";content:none}small{font-size:85%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{border:0;vertical-align:middle;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button;*overflow:visible}button[disabled],input[disabled]{cursor:default}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top;resize:vertical}table{border-collapse:collapse;border-spacing:0}td{vertical-align:top}
+			/*! normalize.css v1.1.0 | MIT License | git.io/normalize */
+			article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,button,input,select,textarea{font-family:sans-serif}body{margin:0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}h2{font-size:1.5em;margin:.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:.83em;margin:1.67em 0}h6{font-size:.67em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}p,pre{margin:1em 0}code,kbd,pre,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:'';content:none}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{border:0;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer;*overflow:visible}button[disabled],html input[disabled]{cursor:default}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}
 			
 			/*
 			**--------------------------------------------------------------------------
@@ -118,14 +71,17 @@
 			}
 			
 			/**
-			 * A new micro clearfix hack.
-			 *
-			 * @see rgne.ws/KZHkqq
+			 * Utility classes.
 			 */
 			
-			.clear:before, .clear:after { content: ""; display: table; }
-			.clear:after { clear: both; }
-			.clear { *zoom: 1; }
+			.fix { *zoom: 1; } .fix:before, .fix:after { content: ""; display: table; } .fix:after { clear: both; } /* rgne.ws/KZHkqq */
+			
+			/* rgne.ws/12VkvRw */
+			.gone { display: none !important; visibility: hidden; }
+			.off { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+			.ghost { visibility: hidden; }
+			
+			.force { margin-top: -1px; margin-bottom: -1px; padding: 1px 0; } /* rgne.ws/JAoGck */
 			
 			/*
 			**----------------------------------
@@ -202,15 +158,9 @@
 		-->
 	</style>
 	
-	<script>
-		<!--
-			//if (document.getElementById) { document.write('<link rel="stylesheet" href="assets/css/js.css?v=20120726">'); }
-		//-->
-	</script>
-	
 	 <!-- rgne.ws/PV8KUu -->
 	<!--[if (lt IE 9) & (!IEMobile)]>
-		<script src="assets/js/respond-1.1.0.min.js"></script>
+		<script src="assets/js/respond.min.js"></script>
 	<![endif]-->
 	
 	<!-- rgne.ws/Orh5cv -->
@@ -221,19 +171,24 @@
 </head>
 <body>
 	
+	<!-- ======================================================================== -->
 	
+	<!-- ==================================== -->
 	
+	<!-- //////////////////////////////////// LOREM IPSUM DOLOR  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 	
-	<p>Content here...</p>
+	<p><a href="basic.html">basic ...</a></p>
 	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ LOREM IPSUM DOLOR //////////////////////////////////// -->
 	
+	<!-- ////////////////// LOREM IPSUM DOLOR  \\\\\\\\\\\\\\\\\\ -->
 	
+	<!-- \\\\\\\\\\\\\\\\\\ LOREM IPSUM DOLOR ////////////////// -->
 	
-	<script src="assets/js/ios-orientationchange-fix.js"></script> <!-- rgne.ws/PYrfbZ -->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-	<!--<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>-->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<!--<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>-->
 	
-	<script type="text/javascript">
+	<script>
 		<!--
 			
 			$(document).ready(function() {});
@@ -244,6 +199,10 @@
 			
 		//-->
 	</script>
+	
+	<!-- [BEGIN] xyzThingy -->
+	
+	<!-- [END] xyzThingy -->
 	
 </body>
 </html>
