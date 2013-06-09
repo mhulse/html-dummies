@@ -1,22 +1,15 @@
 # HTML _dummies_!
 
-### Starting points for basic HTML4 and HTML5 pages/templates.
+### Starting points for HTML4 and HTML5 documents.
 
 ---
 
-#### DEMO
+#### DEMOS
 
-[**HTML5**](http://registerguard.github.com/html-dummies/html5):
 
-[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/registerguard/html-dummies/&chs=240x240)](http://registerguard.github.com/html-dummies/html5/)
-
-[**HTML5**](http://registerguard.github.com/html-dummies/html5/basic.html) (basic):
-
-[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/registerguard/html-dummies/&chs=240x240)](http://registerguard.github.com/html-dummies/html5/basic.html)
-
-[**HTML4**](http://registerguard.github.com/html-dummies/html4/) (basic):
-
-[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/registerguard/html-dummies/&chs=240x240)](http://registerguard.github.com/html-dummies/html4/)
+[HTML5](http://registerguard.github.io/html-dummies/html5) ([raw](https://raw.github.com/registerguard/html-dummies/master/html5/index.html)) | [HTML5 simple](http://registerguard.github.io/html-dummies/html5/simple.html) ([raw](https://github.com/registerguard/html-dummies/blob/master/html5/simple.html)) | [HTML4](http://registerguard.github.io/html-dummies/html4/) ([raw](https://raw.github.com/registerguard/html-dummies/master/html4/index.html))
+:-: | :-: | :-:
+[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/registerguard/html-dummies/&chs=240x240)](http://registerguard.github.io/html-dummies/html5/) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/registerguard/html-dummies/&chs=240x240)](http://registerguard.github.io/html-dummies/html5/simple.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/registerguard/html-dummies/&chs=240x240)](http://registerguard.github.io/html-dummies/html4/)
 
 ---
 
