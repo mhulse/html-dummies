@@ -9,7 +9,7 @@
 
 [HTML5](http://registerguard.github.io/html-dummies/html5) ([raw](https://raw.github.com/registerguard/html-dummies/master/html5/index.html)) | [HTML5 simple](http://registerguard.github.io/html-dummies/html5/simple.html) ([raw](https://raw.github.com/registerguard/html-dummies/master/html5/simple.html)) | [HTML4](http://registerguard.github.io/html-dummies/html4/) ([raw](https://raw.github.com/registerguard/html-dummies/master/html4/index.html))
 :-: | :-: | :-:
-[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://registerguard.github.io/html-dummies/html5/&chs=200x200)](http://registerguard.github.io/html-dummies/html5/) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://registerguard.github.io/html-dummies/html5/simple.html&chs=200x200)](http://registerguard.github.io/html-dummies/html5/simple.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://registerguard.github.io/html-dummies/html4/&chs=200x200)](http://registerguard.github.io/html-dummies/html4/)
+[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://registerguard.github.io/html-dummies/html5/index.html&chs=200x200)](http://registerguard.github.io/html-dummies/html5/) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://registerguard.github.io/html-dummies/html5/simple.html&chs=200x200)](http://registerguard.github.io/html-dummies/html5/simple.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://registerguard.github.io/html-dummies/html4/index.html&chs=200x200)](http://registerguard.github.io/html-dummies/html4/)
 
 ---
 
