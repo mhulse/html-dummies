@@ -22,6 +22,12 @@
 | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/bootstrap.html&chs=200x200)](http://mhulse.github.io/html-dummies/html5/bootstrap.html) |
 
+### Other:
+
+| [Comments](http://mhulse.github.io/html-dummies/other/comments.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/other/comments.html)) |
+| :-: |
+| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/other/comments.html&chs=200x200)](http://mhulse.github.io/html-dummies/other/comments.html) |
+
 ---
 
 #### LEGAL
