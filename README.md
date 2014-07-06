@@ -24,7 +24,11 @@
 
 ### Other:
 
-* [comments.txt](http://mhulse.github.io/html-dummies/other/comments.txt)
+* [CSS, HTML, etc. comment styles and examples](http://mhulse.github.io/html-dummies/other/comments.txt)
+
+## Links
+
+* [HTML starter kit](https://github.com/mhulse/html-starter-kit): A variety of real-world HTML(5) markup examples (plus a few extras).
 
 ---
 
