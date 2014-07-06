@@ -24,9 +24,7 @@
 
 ### Other:
 
-| [comments.txt](http://mhulse.github.io/html-dummies/other/comments.txt) |
-| :-: |
-| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/other/comments.txt&chs=200x200)](http://mhulse.github.io/html-dummies/other/comments.txt) |
+* [comments.txt](http://mhulse.github.io/html-dummies/other/comments.txt)
 
 ---
 
