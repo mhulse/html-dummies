@@ -8,7 +8,7 @@
 
 [Robust](http://mhulse.github.io/html-dummies/html5/robust.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/robust.html)) | [Simple](http://mhulse.github.io/html-dummies/html5/simple.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/simple.html))
 :-: | :-:
-[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/index.html&chs=200x200)](http://mhulse.github.io/html-dummies/html5/) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/simple.html&chs=200x200)](http://mhulse.github.io/html-dummies/html5/simple.html)
+[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/robust.html&chs=200x200)](http://mhulse.github.io/html-dummies/html5/robust.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/simple.html&chs=200x200)](http://mhulse.github.io/html-dummies/html5/simple.html)
 
 ### HTML4:
 
@@ -28,7 +28,7 @@
 
 ## Links
 
-* [HTML starter kit](https://github.com/mhulse/html-starter-kit): A variety of real-world HTML(5) markup examples (plus a few extras).
+* [HTML starter kit: A variety of real-world HTML(5) markup examples (plus a few extras).](https://github.com/mhulse/html-starter-kit)
 
 ---
 
