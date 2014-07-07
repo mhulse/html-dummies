@@ -18,9 +18,9 @@
 
 ### Frameworks:
 
-| [Bootstrap](http://mhulse.github.io/html-dummies/html5/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/bootstrap.html)) |
+| [Bootstrap](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/bootstrap.html)) |
 | :-: |
-| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/bootstrap.html&chs=200x200)](http://mhulse.github.io/html-dummies/html5/bootstrap.html) |
+| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/bootstrap.html&chs=200x200)](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) |
 
 ### Other:
 
