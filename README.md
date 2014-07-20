@@ -9,6 +9,7 @@
 | [Bootstrap](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/bootstrap.html)) | [Pure](http://mhulse.github.io/html-dummies/frameworks/pure.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/pure.html)) |
 | :-: | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/bootstrap.html&chs=200x200)](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/pure.html&chs=200x200)](http://mhulse.github.io/html-dummies/frameworks/pure.html) |
+| [Docs](http://getbootstrap.com) | [Docs](http://purecss.io/) |
 
 ### HTML5:
 
