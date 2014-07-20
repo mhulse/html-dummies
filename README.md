@@ -4,6 +4,12 @@
 
 ## Templates
 
+### Frameworks:
+
+| [Bootstrap](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/bootstrap.html)) | [Pure](http://mhulse.github.io/html-dummies/frameworks/pure.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/pure.html)) |
+| :-: | :-: |
+| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/bootstrap.html&chs=200x200)](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/pure.html&chs=200x200)](http://mhulse.github.io/html-dummies/frameworks/pure.html) |
+
 ### HTML5:
 
 | [Robust](http://mhulse.github.io/html-dummies/html5/robust.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/robust.html)) | [Simple](http://mhulse.github.io/html-dummies/html5/simple.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/simple.html)) |
@@ -15,12 +21,6 @@
 | [HTML4](http://mhulse.github.io/html-dummies/html4/) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html4/index.html)) |
 | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html4/index.html&chs=200x200)](http://mhulse.github.io/html-dummies/html4/) |
-
-### Frameworks:
-
-| [Bootstrap](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/bootstrap.html)) | [Pure](http://mhulse.github.io/html-dummies/frameworks/pure.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/pure.html)) |
-| :-: | :-: |
-| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/bootstrap.html&chs=200x200)](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/pure.html&chs=200x200)](http://mhulse.github.io/html-dummies/frameworks/pure.html) |
 
 ### Other:
 
