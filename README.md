@@ -4,28 +4,126 @@
 
 ## Templates
 
-### Frameworks:
+### Frameworks
 
 | [Bootstrap](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/bootstrap.html)) | [Pure](http://mhulse.github.io/html-dummies/frameworks/pure.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/pure.html)) |
 | :-: | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/bootstrap.html&chs=150x150)](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/pure.html&chs=150x150)](http://mhulse.github.io/html-dummies/frameworks/pure.html) |
 | [Docs](http://getbootstrap.com) | [Docs](http://purecss.io/) |
 
-### HTML5:
+### HTML5
 
 | [Robust](http://mhulse.github.io/html-dummies/html5/robust.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/robust.html)) | [Simple](http://mhulse.github.io/html-dummies/html5/simple.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/simple.html)) | [Minimal](http://mhulse.github.io/html-dummies/html5/minimal.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/minimal.html)) |
 | :-: | :-: | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/robust.html&chs=150x150)](http://mhulse.github.io/html-dummies/html5/robust.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/simple.html&chs=150x150)](http://mhulse.github.io/html-dummies/html5/simple.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/minimal.html&chs=150x150)](http://mhulse.github.io/html-dummies/html5/minimal.html) |
 
-### HTML4:
+### HTML4
 
 | [HTML4](http://mhulse.github.io/html-dummies/html4/) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html4/index.html)) |
 | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html4/index.html&chs=150x150)](http://mhulse.github.io/html-dummies/html4/) |
 
-### Other:
+### Other
 
-* [CSS, HTML, etc. comment styles and examples](http://mhulse.github.io/html-dummies/other/comments.txt)
+CSS, HTML, etc. comment styles and examples:
+
+```text
+/*
+**--------------------------------------------------------------------------
+**
+** Lorem ipsum dolor sit amet:
+**
+**--------------------------------------------------------------------------
+*/
+
+/*
+**----------------------------------
+** Lorem ipsum dolor sit amet:
+**----------------------------------
+*/
+
+/**
+ * DocBlock style comments.
+ *
+ * @see http://google.com
+ */
+
+/* Lorem ipsum dolor sit amet.
+------------------------------------------------------------------------------ */
+
+ /* Lorem ipsum dolor sit amet:
+/////////////////////////////// */
+
+/* ==========================================================================
+   Lorem ipsum dolor sit amet.
+   ========================================================================== */
+
+/*--------------------------------------------------------------------*/
+
+/*----------------------------------( XXXXXXXXXXXXXXX )----------------------------------*/
+
+/*----------------------------------*/
+
+/*-----------------( XXXXXXXXXXXXXXX )-----------------*/
+
+/*-----------------*/
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/* - - - - - - - - - - - - - - - - - - - */
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ LOREM IPSUM /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ */
+
+/* /\/\/\/\/\/\/\/\/\ LOREM IPSUM /\/\/\/\/\/\/\/\/\ */
+
+/* ==================================== Lorem ipsum ==================================== */
+
+/* ================== Lorem ipsum ================== */
+
+<!-- |||||||||||||||||||||||||||||||||||| LOREM IPSUM |||||||||||||||||||||||||||||||||||| -->
+
+<!-- |||||||||||||||||| LOREM IPSUM |||||||||||||||||| -->
+
+<!-- //////////////////////////////////// LOREM IPSUM DOLOR  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ LOREM IPSUM DOLOR //////////////////////////////////// -->
+
+<!-- ////////////////// LOREM IPSUM DOLOR \\\\\\\\\\\\\\\\\\ -->
+
+<!-- \\\\\\\\\\\\\\\\\\ LOREM IPSUM DOLOR ////////////////// -->
+
+<!-- ======================================================================== -->
+
+<!-- ==================================== -->
+
+<!-- ##### BEGIN CONTENT AREA ##### -->
+
+<!-- ##### END CONTENT AREA ##### -->
+
+<!-- [BEGIN] xyzThingy -->
+
+<!-- [END] xyzThingy -->
+
+<!-- ========================================================
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+     ======================================================== -->
+
+<!-- |||||||||||||||||||||||||||||||||||| LOREM IPSUM |||||||||||||||||||||||||||||||||||| -->
+
+<!-- |||||||||||||||||| LOREM IPSUM |||||||||||||||||| -->
+
+<!-- //////////////////////////////////// LOREM IPSUM DOLOR \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ LOREM IPSUM DOLOR //////////////////////////////////// -->
+
+<!-- ////////////////// LOREM IPSUM DOLOR \\\\\\\\\\\\\\\\\\ -->
+
+<!-- \\\\\\\\\\\\\\\\\\ LOREM IPSUM DOLOR ////////////////// -->
+
+<!-- ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ LOREM IPSUM DOLOR ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ -->
+
+<!-- ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ LOREM IPSUM DOLOR ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ -->
+```
 
 ## Links
 
