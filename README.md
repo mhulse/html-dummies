@@ -14,7 +14,7 @@
 ### HTML5:
 
 | [Robust](http://mhulse.github.io/html-dummies/html5/robust.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/robust.html)) | [Simple](http://mhulse.github.io/html-dummies/html5/simple.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/simple.html)) | [Minimal](http://mhulse.github.io/html-dummies/html5/minimal.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/html5/minimal.html)) |
-| :-: | :-: |
+| :-: | :-: | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/robust.html&chs=150x150)](http://mhulse.github.io/html-dummies/html5/robust.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/simple.html&chs=150x150)](http://mhulse.github.io/html-dummies/html5/simple.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html5/minimal.html&chs=150x150)](http://mhulse.github.io/html-dummies/html5/minimal.html) |
 
 ### HTML4:
