@@ -23,7 +23,7 @@
 | :-: |
 | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/html4/index.html&chs=150x150)](http://mhulse.github.io/html-dummies/html4/) |
 
-### Other
+## Other
 
 CSS, HTML, etc. comment styles and examples:
 
