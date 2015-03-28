@@ -6,10 +6,10 @@
 
 ### Frameworks
 
-| [Bootstrap](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/bootstrap.html)) | [Pure](http://mhulse.github.io/html-dummies/frameworks/pure.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/pure.html)) |
-| :-: | :-: |
-| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/bootstrap.html&chs=150x150)](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/pure.html&chs=150x150)](http://mhulse.github.io/html-dummies/frameworks/pure.html) |
-| [Docs](http://getbootstrap.com) | [Docs](http://purecss.io/) |
+| [Bootstrap](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/bootstrap.html)) | [Pure](http://mhulse.github.io/html-dummies/frameworks/pure.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/pure.html)) | [Backbone.js](http://mhulse.github.io/html-dummies/frameworks/backbone.html) ([raw](https://raw.github.com/mhulse/html-dummies/gh-pages/frameworks/backbone.html)) |
+| :-: | :-: | :-: |
+| [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/bootstrap.html&chs=150x150)](http://mhulse.github.io/html-dummies/frameworks/bootstrap.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/pure.html&chs=150x150)](http://mhulse.github.io/html-dummies/frameworks/pure.html) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://mhulse.github.io/html-dummies/frameworks/backgone.html&chs=150x150)](http://mhulse.github.io/html-dummies/frameworks/backbone.html) |
+| [Docs](http://getbootstrap.com) | [Docs](http://purecss.io/) | [Docs](http://backbonejs.org/) |
 
 ### HTML5
 
@@ -29,11 +29,11 @@ CSS, HTML, etc. comment styles and examples:
 
 ```text
 /*
-**--------------------------------------------------------------------------
+**----------------------------------------------------------------------
 **
 ** Lorem ipsum dolor sit amet:
 **
-**--------------------------------------------------------------------------
+**----------------------------------------------------------------------
 */
 
 /*
@@ -41,6 +41,14 @@ CSS, HTML, etc. comment styles and examples:
 ** Lorem ipsum dolor sit amet:
 **----------------------------------
 */
+
+//----------------------------------------------------------------------
+// Lorem ipsum dolor sit amet:
+//----------------------------------------------------------------------
+
+//----------------------------------
+// Lorem ipsum dolor sit amet:
+//----------------------------------
 
 /**
  * DocBlock style comments.
@@ -107,6 +115,10 @@ CSS, HTML, etc. comment styles and examples:
 <!-- ========================================================
      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
      ======================================================== -->
+
+<!-- ================= -->
+<!-- LOREM IPSUM DOLOR -->
+<!-- ================= -->
 
 <!-- |||||||||||||||||||||||||||||||||||| LOREM IPSUM |||||||||||||||||||||||||||||||||||| -->
 
